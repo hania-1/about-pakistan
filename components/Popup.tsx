@@ -23,7 +23,7 @@ const Popup = () => {
           <div className="bg-gradient-to-r from-green-900 to-white rounded-lg p-8 shadow-lg transform transition-transform duration-500 scale-100 hover:scale-105">
             <h2 className="text-2xl font-bold text-white text-center">🎉 Welcome to Our Website! 🎉</h2>
             <p className="text-black text-center mt-2 mb-4">
-              We're excited to have you here, especially our visitors from Pakistan!
+              We are excited to have you here, especially our visitors from Pakistan!
             </p>
             <button
               onClick={() => setIsVisible(false)}
